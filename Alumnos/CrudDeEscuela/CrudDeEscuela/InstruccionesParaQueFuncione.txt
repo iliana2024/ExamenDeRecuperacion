@@ -1,0 +1,28 @@
+﻿1. CREAMOS LA BASE DE DATOS DESDE EL VISUAL Y LA CONECTAMOS POR MEDIO DEL EXPLORADOR
+DE SERVIDORES Y ORIGENES DE DATOS
+
+2. CREAMOS LAS TABLAS:
+CREATE TABLE [dbo].[Alumno] (
+    [Id]               INT            IDENTITY (1, 1) NOT NULL,
+    [Nombre]           NVARCHAR (50)  NOT NULL,
+    [Carnet]           NVARCHAR (30)  NOT NULL,
+    [Direccion]        NVARCHAR (60)  NULL,
+    [Telefono]         NVARCHAR (30)  NULL,
+    [Carrera]          NVARCHAR (100) NOT NULL,
+    [IdDelUsuario]     INT            NULL,
+    [NombreDelUsuario] NVARCHAR (50)  NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+CREATE TABLE [dbo].[Carrera] (
+    [Id]     INT            IDENTITY (1, 1) NOT NULL,
+    [Nombre] NVARCHAR (100) NOT NULL
+);
+
+CREATE TABLE [dbo].[Usuario] (
+    [Id]     INT           IDENTITY (1, 1) NOT NULL,
+    [Nombre] NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+PROBAMOS EL PROGRAMA Y CREAMOS LOS RESPECTIVOS METODOS QUE PIDA AL MOMENTO DE EJECUTARLO
+POR SI OCASIONA ERRORES

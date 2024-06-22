@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\InstruccionesParaQueFuncione.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InstruccionesParaQueFuncione.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeAlumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManejoDeAlumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeAlumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManejoDeAlumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarAlumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ActualizarAlumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeUsuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManejoDeUsuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarCarreras.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ActualizarCarreras.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BasedeDatosAlumnosDataSet.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BasedeDatosAlumnosDataSet.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeUsuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManejoDeUsuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeCarreras.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManejoDeCarreras.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeCarreras.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManejoDeCarreras.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarCarreras.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ActualizarCarreras.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarUsuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ActualizarUsuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarAlumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ActualizarAlumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarUsuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ActualizarUsuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BasedeDatosAlumnosDataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstruccionesParaQueFuncione.txt",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\InstruccionesParaQueFuncione.txt",
+              "RelativeDocumentMoniker": "InstruccionesParaQueFuncione.txt",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\InstruccionesParaQueFuncione.txt",
+              "RelativeToolTip": "InstruccionesParaQueFuncione.txt",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-20T22:31:34.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManejoDeAlumnos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeAlumnos.xaml.cs",
+              "RelativeDocumentMoniker": "ManejoDeAlumnos.xaml.cs",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeAlumnos.xaml.cs",
+              "RelativeToolTip": "ManejoDeAlumnos.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:47:16.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActualizarAlumnos.xaml",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarAlumnos.xaml",
+              "RelativeDocumentMoniker": "ActualizarAlumnos.xaml",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarAlumnos.xaml",
+              "RelativeToolTip": "ActualizarAlumnos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T21:51:29.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManejoDeUsuarios.xaml",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeUsuarios.xaml",
+              "RelativeDocumentMoniker": "ManejoDeUsuarios.xaml",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeUsuarios.xaml",
+              "RelativeToolTip": "ManejoDeUsuarios.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T21:49:36.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManejoDeAlumnos.xaml",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeAlumnos.xaml",
+              "RelativeDocumentMoniker": "ManejoDeAlumnos.xaml",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeAlumnos.xaml",
+              "RelativeToolTip": "ManejoDeAlumnos.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T21:46:58.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActualizarCarreras.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarCarreras.xaml.cs",
+              "RelativeDocumentMoniker": "ActualizarCarreras.xaml.cs",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarCarreras.xaml.cs",
+              "RelativeToolTip": "ActualizarCarreras.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:51:17.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasedeDatosAlumnosDataSet.xsc",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.xsc",
+              "RelativeDocumentMoniker": "BasedeDatosAlumnosDataSet.xsc",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.xsc",
+              "RelativeToolTip": "BasedeDatosAlumnosDataSet.xsc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-06-20T21:50:42.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasedeDatosAlumnosDataSet.xss",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.xss",
+              "RelativeDocumentMoniker": "BasedeDatosAlumnosDataSet.xss",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.xss",
+              "RelativeToolTip": "BasedeDatosAlumnosDataSet.xss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMqSURBVDhPjZTfS9pRFMCPvzYmCZpKLsxZLtuIYgrVSKjR9qY9j\u002Bipwj1sERTU/oGg9hL9BfnUyyxo0ct6CZQiK1YrGpT90hmU\u002BYPy5/y5c6/XppmsDxz0nnPu\u002BZ577jkX/kd3d7cqEol8RLGHw\u002BEgSuaOnKFY7Ha7EbLZLIftuxez2WwYGBh4LxKJTMfHx9KNjY0nXq\u002BXz8yUpqamPyghuVx\u002B5PP5vpYNiMEe9fT0fFIqlYMHB4e1cpkcLi8vIRwJM48ciqoq4HA4kEqnogaD4bDoa4UYjUZBc3Oz0u1212JWoNfpoaGhgVmL\u002BbW/D64jtxD/vuLmVKV4PJ5MMBjMJJMp8Pt9mJ0XcA03NzdFgseEK98V/U8om\u002BHo6GgMnZKtra2wsrICzkMnZvgCxBIx88hxdnoKWN9bfVENu7q63o2MjHxmS6irq9OIxWL17u4uzMzMQDqdBj5fwKw5YrEoSoz4wtTUVHGGCoXiqV6vf7u0tASpVAqwfqBSqQBrCZlMBgKBAPMsT0kNQ6EQLCwsgNVqpbK2tsYsD6MkIJfLhcrKSjwaH4RCIVRUVDDLwygJWIV9NTExAVqtlrQO9Pf3M8vDoDUcHx//otFontfU1Kh4PB7NUCAQ0AxxSiCRSMDQ0BD9JSUgt14I2UP8CTRgR0fHG\u002Bz2FqfTCUQIZCrI7eJ40jWhvb2dXlIhEomE6nQ6XQSX\u002B7RtbDabY3Nzs2V1dbVkAyGZTNIPjY2N0SyXl5eZBaC6ujre2NgYwH0HLpfLyseii/AiaC3xK4B9SB2jCB6F9xjx\u002B/23\u002Bs7OTnKiFGaO7RfLYjt5UG3b2dn5ZjKZvvPx2XFg7Z45HA66Ic/w8PBgW1vba7yUD0x1Cwb7cX19PdjX1xfBrBKoisbjcTp7fBz4l7Ozs9nt7W06CRaLBXp7e8ks/66vr9eSo87NzdH\u002BXFxcpA0vlUrDk5OTP9fX15NEXwg96tbWFpyfn8PFxQWQTEngPGT4SW1J7fb29uDk5ATw9cnOz8\u002BXBCPQgHhkwGyoqNVq\u002Br7lIY2dtxGRyWTMcj\u002B0bbDgZR9anGPO9PQ0W\u002BW424f/APgLhKeOqUy7wgkAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-20T21:50:27.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManejoDeUsuarios.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeUsuarios.xaml.cs",
+              "RelativeDocumentMoniker": "ManejoDeUsuarios.xaml.cs",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeUsuarios.xaml.cs",
+              "RelativeToolTip": "ManejoDeUsuarios.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:49:40.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManejoDeCarreras.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeCarreras.xaml.cs",
+              "RelativeDocumentMoniker": "ManejoDeCarreras.xaml.cs",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeCarreras.xaml.cs",
+              "RelativeToolTip": "ManejoDeCarreras.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:48:53.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManejoDeCarreras.xaml",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeCarreras.xaml",
+              "RelativeDocumentMoniker": "ManejoDeCarreras.xaml",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ManejoDeCarreras.xaml",
+              "RelativeToolTip": "ManejoDeCarreras.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T21:48:48.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActualizarCarreras.xaml",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarCarreras.xaml",
+              "RelativeDocumentMoniker": "ActualizarCarreras.xaml",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarCarreras.xaml",
+              "RelativeToolTip": "ActualizarCarreras.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T21:51:15.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActualizarUsuarios.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarUsuarios.xaml.cs",
+              "RelativeDocumentMoniker": "ActualizarUsuarios.xaml.cs",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarUsuarios.xaml.cs",
+              "RelativeToolTip": "ActualizarUsuarios.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:51:06.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActualizarAlumnos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarAlumnos.xaml.cs",
+              "RelativeDocumentMoniker": "ActualizarAlumnos.xaml.cs",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarAlumnos.xaml.cs",
+              "RelativeToolTip": "ActualizarAlumnos.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:51:32.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActualizarUsuarios.xaml",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarUsuarios.xaml",
+              "RelativeDocumentMoniker": "ActualizarUsuarios.xaml",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\ActualizarUsuarios.xaml",
+              "RelativeToolTip": "ActualizarUsuarios.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T21:51:02.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasedeDatosAlumnosDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "BasedeDatosAlumnosDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\BasedeDatosAlumnosDataSet.Designer.cs",
+              "RelativeToolTip": "BasedeDatosAlumnosDataSet.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:50:46.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yuri\\Downloads\\Alumnos\\Alumnos\\CrudDeEscuela\\CrudDeEscuela\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T21:46:30.503Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

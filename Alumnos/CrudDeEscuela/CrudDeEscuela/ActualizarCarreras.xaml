@@ -1,0 +1,17 @@
+﻿<Window x:Class="CrudDeEscuela.ActualizarCarreras"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrudDeEscuela"
+        mc:Ignorable="d"
+        Title="ActualizarCarreras" Height="450" Width="800">
+    <Grid>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="201,73,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox x:Name="TxtActualizaCarrera" HorizontalAlignment="Left" Margin="298,84,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" Height="28"/>
+        <Button x:Name="BtnActualizarCarrera" Content="Actualizar" HorizontalAlignment="Left" Margin="298,137,0,0" VerticalAlignment="Top" Height="34" Width="86" Click="BtnActualizarCarrera_Click"/>
+        <Label Content="Información de la Carrera:" HorizontalAlignment="Left" Margin="278,29,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <Button x:Name="BtnRegresarAVentanaCarrera" Content="Regresar al menu carreras" HorizontalAlignment="Left" Margin="556,81,0,0" VerticalAlignment="Top" Height="34" Width="162" Click="BtnRegresarAVentanaCarrera_Click"/>
+
+    </Grid>
+</Window>
